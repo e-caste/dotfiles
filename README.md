@@ -12,3 +12,8 @@ Opening calendar widget:
 
 With Spotify playing:
 ![](https://imgur.com/K9tB7YC.png)
+
+## config.toml
+
+[ncspot](https://github.com/hrkfdn/ncspot) custom theme:
+![](https://imgur.com/XEeJlo4.png)
