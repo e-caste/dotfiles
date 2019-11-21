@@ -1,6 +1,6 @@
 ## .powerlevel9krc
 
-![](https://giant.gfycat.com/PotableVeneratedKronosaurus.gif)
+![](https://giant.gfycat.com/OrderlyMixedFawn.gif)
 
 ## Castes.bttcompressed
 
