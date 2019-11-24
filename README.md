@@ -1,3 +1,9 @@
+## iTerm2 config - no file
+
+![](https://imgur.com/LOOxux0.png)
+top left: ncspot -- top right (tmux): vim  
+bottom left: asciiquarium -- bottom right (tmux): imgcat
+
 ## .powerlevel9krc
 
 ![](https://giant.gfycat.com/OrderlyMixedFawn.gif)
