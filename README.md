@@ -7,6 +7,7 @@
 BetterTouchTool TouchBar configuration:
 
 ![](https://imgur.com/oZCdkwm.png)
+The terminal button opens a floating iTerm2 window; the weather button opens the macOS notification center (showing the weather); the calendar button opens the calendar widget; the media controls do their job just by being reliably there; the cows button start and stop [this chillhop stream](https://www.youtube.com/watch?v=hHW1oY26kxQ) using the VLC dummy interface; the games button opens the touchbar games folder; the brightness buttons change the keyboard brightness; the sliders adjust screen brightness and audio volume; the volume mute button launches a rocket to Saturn.
 
 Opening calendar widget:
 
