@@ -16,4 +16,4 @@ With Spotify playing:
 ## config.toml
 
 [ncspot](https://github.com/hrkfdn/ncspot) custom theme:
-![](https://imgur.com/XEeJlo4.png)
+![](https://imgur.com/dVX8ufr.png)
