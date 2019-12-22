@@ -42,7 +42,7 @@ Opening the TouchBar games folder group:
 
 ## config.conf
 
-[neofetch](https://github.com/dylanaraps/neofetch) config file
+[neofetch](https://github.com/dylanaraps/neofetch) config file  
 note: v4.0.0 is the most recent version of neofetch that allows displaying images on macOS
 
 ![](https://imgur.com/JizkF4s.png)
